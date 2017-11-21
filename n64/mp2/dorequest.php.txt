@@ -1,0 +1,202 @@
+{"Success":true,"PatchData":{"ID":10264,"Title":"Mario Party
+2","ConsoleID":2,"ForumTopicID":4725,"Flags":0,"ImageIcon":"\/Images\/014653.png","ImageTitle":"\/Images\/014651.png","ImageIngame":"\/Images\/014652.png","ImageBoxArt":"\/Images\/014654.png","Publisher":"Nintendo","Developer":"Hudson
+Soft","Genre":"Party","Released":"December 17,
+1999","IsFinal":false,"ConsoleName":"Nintendo
+64","RichPresencePatch":"Lookup:State\r\n0=\r\n1=BOWSER Slots on
+\r\n2=Roll Out the Barrels on \r\n3=Coffin Congestion on \r\n4=Hammer
+Slammer on \r\n5=Give Me a Brake! on \r\n6=Mallet-Go Round on \r\n7=Grab
+Bag on \r\n8=Bumper Balloon Cars on \r\n9=Rakin' 'em In on
+\r\n10=\r\n11=Day at the Races on \r\n12=Face Lift on \r\n13=Crazy
+Cutters on \r\n14=Hot BOB-OMB on \r\n15=Bowl Over on \r\n16=Rainbow Run
+on \r\n17=Crane Game on \r\n18=Move to the Music on \r\n19=BOB-OMB
+Barrage on \r\n20=Look Away on \r\n21=Shock Drop or Roll on
+\r\n22=Lights Out on \r\n23=Filet Relay on \r\n24=Archer-ival on
+\r\n25=\r\n26=TOAD Bandstand on \r\n27=Bobsled Run on \r\n28=Handcar
+Havoc on \r\n29=\r\n30=Balloon Burst on \r\n31=Sky Pilots on
+\r\n32=Speed Hockey on \r\n33=Cake Factory on \r\n34=\r\n35=Dungeon Dash
+on \r\n36=Magnet Carta on \r\n37=Lava Tile Isle on \r\n38=Hot Rope Jump
+on \r\n39=Shell Shocked on \r\n40=TOAD in the Box on
+\r\n41=Mecha-Marathon on \r\n42=Roll Call on \r\n43=Abandon Ship on
+\r\n44=Platform Peril on \r\n45=Totem Pole Pound on \r\n46=Bumper Balls
+on \r\n47=\r\n48=Bombs Away on \r\n49=Tipsy Tourney on \r\n50=Honeycomb
+Havoc on \r\n51=Hexagon Heat on \r\n52=Skateboard Scamper on \r\n53=Slot
+Car Derby on \r\n54=Shy Guy Says on \r\n55=Sneak 'n' Snore on
+\r\n56=\r\n57=Driver's Ed on \r\n58=Chance Time on \r\n59=Quick Draw on
+\r\n60=Saber Slashes on \r\n61=Mushroom Brew on \r\n62=Time Bomb on
+\r\n63=Psychic Safari on \r\n64=Rock Paper MARIO on \r\n65=BOWSER's Big
+Blast on \r\n66=Looney Lumberjacks on \r\n67=Torpedo Targets on
+\r\n68=Destruction Duet on \r\n69=Dizzy Dancing on \r\n70=Tile Driver on
+\r\n71=Quicksand Cache on \r\n72=Deep Sea Salvage on
+\r\n65534=\r\n65535=\r\n\r\nLookup:Board\r\n0x0000=Western
+Land\r\n0x0001=Pirate Land\r\n0x0002=Horror Land\r\n0x0003=Space
+Land\r\n0x0004=Mystery Land\r\n0x0005=Bowser Land\r\n0x0006=Mini-Game
+Stadium\r\n0x0007=Mini-Game Coaster\r\n0x0008=Rules
+Land\r\n\r\nLookup:Turnno\r\n0=\r\n1=Turn 1\r\n2=Turn 2\r\n3=Turn
+3\r\n4=Turn 4\r\n5=Turn 5\r\n6=Turn 6\r\n7=Turn 7\r\n8=Turn 8\r\n9=Turn
+9\r\n10=Turn 10\r\n11=Turn 11\r\n12=Turn 12\r\n13=Turn 13\r\n14=Turn
+14\r\n15=Turn 15\r\n16=Turn 16\r\n17=Turn 17\r\n18=Turn 18\r\n19=Turn
+19\r\n20=Turn 20\r\n21=Turn 21\r\n22=Turn 22\r\n23=Turn 23\r\n24=Turn
+24\r\n25=Turn 25\r\n26=Turn 26\r\n27=Turn 27\r\n28=Turn 28\r\n29=Turn
+29\r\n30=Turn 30\r\n31=Turn 31\r\n32=Turn 32\r\n33=Turn 33\r\n34=Turn
+34\r\n35=Turn 35\r\n36=Turn 36\r\n37=Turn 37\r\n38=Turn 38\r\n39=Turn
+39\r\n40=Turn 40\r\n41=Turn 41\r\n42=Turn 42\r\n43=Turn 43\r\n44=Turn
+44\r\n45=Turn 45\r\n46=Turn 46\r\n47=Turn 47\r\n48=Turn 48\r\n49=Turn
+49\r\n50=Turn
+50\r\n\r\nLookup:Length\r\n0x0000=\r\n0x000a=\/10\r\n0x0014=\/20\r\n0x001e=\/30\r\n0x0023=\/35\r\n0x0032=\/50\r\n\r\nDisplay:
+\r\n@State(0xf93ca)@Board(0xf93a8)
+@Turnno(0xf93b2)@Length(0xf93ac)","Achievements":[{"ID":51967,"MemAddr":"0x0fa63c=81_0x0f93a8=0S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Western
+Land","Description":"Defeat Bowser the Brash on Western
+Land.","Points":5,"Author":"Celeryyy","Modified":1503370866,"Created":1503366842,"BadgeName":"53521","Flags":3},{"ID":51968,"MemAddr":"0x0f93a8=0_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Western
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370872,"Created":1503366859,"BadgeName":"53522","Flags":3},{"ID":51969,"MemAddr":"0x0fa63c=81_0x0f93a8=1S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Pirate
+Land","Description":"Defeat Cap'n Bowser on Pirate
+Land.","Points":5,"Author":"Celeryyy","Modified":1503370874,"Created":1503366871,"BadgeName":"53523","Flags":3},{"ID":51970,"MemAddr":"0x0f93a8=1_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Pirate
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370878,"Created":1503366890,"BadgeName":"53524","Flags":3},{"ID":51971,"MemAddr":"0x0fa63c=81_0x0f93a8=3S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Space
+Land","Description":"Defeat Black Hole Bowser on the board Space
+Land.","Points":5,"Author":"Celeryyy","Modified":1503370880,"Created":1503367140,"BadgeName":"53526","Flags":3},{"ID":51972,"MemAddr":"0x0f93a8=3_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Space
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370884,"Created":1503367418,"BadgeName":"53528","Flags":3},{"ID":51973,"MemAddr":"0x0fa63c=81_0x0f93a8=4S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Mystery
+Land","Description":"Defeat the Bowser Sphinx on Mystery
+Land.","Points":5,"Author":"Celeryyy","Modified":1503370887,"Created":1503367451,"BadgeName":"53529","Flags":3},{"ID":51974,"MemAddr":"0x0f93a8=4_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Mystery
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370893,"Created":1503367455,"BadgeName":"53530","Flags":3},{"ID":51975,"MemAddr":"0x0fa63c=81_0x0f93a8=2S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Horror
+Land","Description":"Defeat Wizard Bowser on Horror
+Land.","Points":5,"Author":"Celeryyy","Modified":1503370897,"Created":1503367562,"BadgeName":"53531","Flags":3},{"ID":51976,"MemAddr":"0x0f93a8=2_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Horror
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370900,"Created":1503367565,"BadgeName":"53532","Flags":3},{"ID":51977,"MemAddr":"0x0fa63c=81_0x0f93a8=5S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Bowser
+Land","Description":"Defeat Bowser on his home
+turf.","Points":5,"Author":"Celeryyy","Modified":1503370913,"Created":1503367567,"BadgeName":"53533","Flags":3},{"ID":51978,"MemAddr":"0x0f93a8=5_0x0fa63c=81_0x0f93b2=1.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd32c!=d0xM0fd32c_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35eS0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd2cc>0x0fd300_0x0fd2cc>0x0fd334_0x0fd2cc>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2=2_0xH0fd32a=2_0xH0fd35e=2_0x0fd300>0x0fd2cc_0x0fd300>0x0fd334_0x0fd300>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6=2_0xH0fd2c2=2_0xH0fd35e=2_0x0fd334>0x0fd2cc_0x0fd334>0x0fd300_0x0fd334>0x0fd368S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6=2_0xH0fd32a=2_0xH0fd2c2=2_0x0fd368>0x0fd2cc_0x0fd368>0x0fd300_0x0fd368>0x0fd334","Title":"Bowser
+Land S-Rank","Description":"Win by more than one Star on this board
+against 3 Hard CPUs (no
+reloading).","Points":15,"Author":"Celeryyy","Modified":1503370916,"Created":1503367571,"BadgeName":"53534","Flags":3},{"ID":51979,"MemAddr":"0x0f93a8=7_0x0fd2ce=10_0x0fa63c=48_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 1","Description":"Clear Slot Car Derby in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494017,"Created":1503367669,"BadgeName":"53536","Flags":3},{"ID":51980,"MemAddr":"0x0f93a8=7_0x0fd2ce=10_0x0fa63c=29_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 2","Description":"Clear Speed Hockey in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494048,"Created":1503367714,"BadgeName":"53537","Flags":3},{"ID":51981,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=14_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 3","Description":"Clear Bowl Over in the Mini-Game Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494083,"Created":1503367739,"BadgeName":"53538","Flags":3},{"ID":51982,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=34_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 4","Description":"Clear Shell Shocked in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494159,"Created":1503367761,"BadgeName":"53540","Flags":3},{"ID":51983,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=24_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 5","Description":"Clear TOAD Bandstand in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494255,"Created":1503367773,"BadgeName":"53541","Flags":3},{"ID":51984,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=18_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 6","Description":"Clear BOB-OMB Barrage in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494320,"Created":1503367787,"BadgeName":"53542","Flags":3},{"ID":51985,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=40_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 7","Description":"Clear Platform Peril in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494370,"Created":1503367812,"BadgeName":"53543","Flags":3},{"ID":51986,"MemAddr":"0x0f93a8=7_0x0fd2ce>=10_0x0fa63c=43_R:0x0fa63c>=96","Title":"Mini-Game
+Coaster World 8","Description":"Clear Bombs Away in the Mini-Game
+Coaster
+mode.","Points":10,"Author":"Celeryyy","Modified":1503494428,"Created":1503367876,"BadgeName":"53544","Flags":3},{"ID":51987,"MemAddr":"0x0f93ca=42_R:0x0f93ca!=42S0xM0fd2c4=0_0x0fd2ce=10_0x10a5da=99.1.S0xM0fd2f8=0_0x0fd302=10_0x10a622=99.1.S0xM0fd32c=0_0x0fd336=10_0x10a66a=99.1.S0xM0fd360=0_0x0fd36a=10_0x10a6b2=99.1.","Title":"Slight
+Overestimate","Description":"In the Mini-Game Roll Call, count all the
+way to 99 at any point and still
+win.","Points":5,"Author":"Celeryyy","Modified":1503370942,"Created":1503367904,"BadgeName":"53545","Flags":3},{"ID":51988,"MemAddr":"0x0f93ca=43S0xM0fd2c4=0_0x0fd2c8=5S0xM0fd2f8=0_0x0fd2fc=5S0xM0fd32c=0_0x0fd330=5S0xM0fd360=0_0x0fd364=5","Title":"Never
+Go Down Without Your Cash","Description":"Collect every bonus Coin in
+the Mini-Game Abandon
+Ship.","Points":5,"Author":"Celeryyy","Modified":1503370945,"Created":1503367920,"BadgeName":"53546","Flags":3},{"ID":51989,"MemAddr":"0x0f93ca=44S0xM0fd2c4=0_0x0fd2ce=10_0x0fd2c8>=6S0xM0fd2f8=0_0x0fd302=10_0x0fd2fc>=6S0xM0fd32c=0_0x0fd336=10_0x0fd330>=6S0xM0fd360=0_0x0fd36a=10_0x0fd364>=6","Title":"6
+Golden Coins","Description":"Collect 6 bonus Coins and win in the
+Mini-Game Platform
+Peril.","Points":5,"Author":"Celeryyy","Modified":1503370947,"Created":1503367940,"BadgeName":"53547","Flags":3},{"ID":51990,"MemAddr":"0x0f93ca=49S0xM0fd2c4=0_0x0fd2ce=10_0x0f95ee>=18S0xM0fd2f8=0_0x0fd302=10_0x0f95ee>=18S0xM0fd32c=0_0x0fd336=10_0x0f95ee>=18S0xM0fd360=0_0x0fd36a=10_0x0f95ee>=18","Title":"Tipping
+Point","Description":"Win the Mini-Game Tipsy Tourney with 18 or more
+seconds left on the
+clock.","Points":5,"Author":"Celeryyy","Modified":1503370949,"Created":1503367959,"BadgeName":"53548","Flags":3},{"ID":51991,"MemAddr":"0x0f93ca=53_0x10fb10<=1110_0xH10fb0c=2_0xH1102ca=4S0xM0fd2c4=0_0x0fd2ce=10S0xM0fd2f8=0_0x0fd302=10S0xM0fd32c=0_0x0fd336=10S0xM0fd360=0_0x0fd36a=10","Title":"Slot
+Car Dash 3","Description":"Complete the Mini-Game Slot Car Derby 3 in
+under 37
+seconds.","Points":5,"Author":"Celeryyy","Modified":1503442507,"Created":1503367975,"BadgeName":"53549","Flags":3},{"ID":51992,"MemAddr":"0x0f93ca=15S0xM0fd2c4=0_0x0fd2ce=10_0x0fd2c8=3S0xM0fd2f8=0_0x0fd302=10_0x0fd2fc=3S0xM0fd32c=0_0x0fd336=10_0x0fd330=3S0xM0fd360=0_0x0fd36a=10_0x0fd364=3","Title":"Spare
+Some Change","Description":"Knock over every pin in the Mini-Game Bowl
+Over.","Points":5,"Author":"Celeryyy","Modified":1503370955,"Created":1503367994,"BadgeName":"53550","Flags":3},{"ID":51993,"MemAddr":"0x0f93ca=22_0xH0f957a=30.5._R:0xH0fd2c3!=0_R:0xM0fd2c4!=0_0x0fd2ce=10_R:0xS10163f=1_0xH0fd2f6>=2_0xH0fd32a>=2_0xH0fd35e>=2","Title":"A-Okay","Description":"From
+Mini-Game Park, win against 3 Hard CPUs in Lights Out without using
+B.","Points":5,"Author":"Celeryyy","Modified":1503370962,"Created":1503368204,"BadgeName":"53572","Flags":3},{"ID":51994,"MemAddr":"0x0f93ca=24S0xM0fd2c4=0_0x0fd2ce=10_0x0fd2c8>=3S0xM0fd2f8=0_0x0fd302=10_0x0fd2fc>=3S0xM0fd32c=0_0x0fd336=10_0x0fd330>=3S0xM0fd360=0_0x0fd36a=10_0x0fd364>=3","Title":"Arrow
+Dynamic","Description":"Shoot every target in the Mini-Game
+Archer-ival.","Points":5,"Author":"Celeryyy","Modified":1503370965,"Created":1503368241,"BadgeName":"53554","Flags":3},{"ID":51995,"MemAddr":"0x0f93ca=31_0x10af0e<=3120_0x10af18!=0_0x0fa63c=28S0xM0fd2c4=0_0x0fd2ce=10S0xM0fd2f8=0_0x0fd2ce=10S0xM0fd32c=0_0x0fd2ce=10S0xM0fd360=0_0x0fd2ce=10","Title":"Aces
+High","Description":"Complete the Mini-Game Sky Pilots in under 52
+seconds.","Points":5,"Author":"Celeryyy","Modified":1504840760,"Created":1503368263,"BadgeName":"53555","Flags":3},{"ID":51996,"MemAddr":"0x0f95ee=0_0x0fa63c=30_0xH1e2af8=0.1._0xH1e3808=0.1._R:0x0fa63c!=30S0xH1e2af8>=15S0xH1e3808>=15","Title":"Prompt
+Pastry Production","Description":"Build 15 or more cakes in the
+Mini-Game Cake
+Factory.","Points":5,"Author":"Celeryyy","Modified":1503370971,"Created":1503368302,"BadgeName":"53556","Flags":3},{"ID":51997,"MemAddr":"0x0f93ca=68_0xH0cafec=1_0x0f95ee>=48_0x0f95ec=2","Title":"Destruction
+Derby","Description":"From Mini-Game Park end Type 2 of Destruction Duet
+in 12 or fewer
+seconds.","Points":5,"Author":"Celeryyy","Modified":1503438748,"Created":1503368322,"BadgeName":"53557","Flags":3},{"ID":51998,"MemAddr":"P:0x0fd2ce!=1_0x0f93ca=1.1._0x0f93ca=2.1._0x0f93ca=3.1._0x0f93ca=4.1._0x0f93ca=5.1._0x0f93ca=6.1.","Title":"Key
+to Victory","Description":"From Mini-Game Park, recieve a Skeleton Key
+in every Item
+Mini-Game.","Points":10,"Author":"Celeryyy","Modified":1503370976,"Created":1503368339,"BadgeName":"53558","Flags":3},{"ID":51999,"MemAddr":"R:0x0fa63c!=17_0x0fa63c=17S0xH10d805=5.1._0xH10d804=5.1._0xH10d80b=6.1._0xH10d80a=0.1._0xH10d809=6.1._0xH10d808=0.1._0xH10d805=7_0xH10d804=8_0xH10d80b=7_0xH10d80a=8_0xH10d809=3_0xH10d808=2S0xH10d805=5.1._0xH10d804=5.1._0xH10d80b=6.1._0xH10d80a=0.1._0xH10d809=6.1._0xH10d808=7.1._0xH10d805=8_0xH10d804=7_0xH10d80b=8_0xH10d80a=3_0xH10d809=2S0xH10d805=5.1._0xH10d804=5.1._0xH10d80b=6.1._0xH10d80a=0.1._0xH10d809=6.1._0xH10d808=1.1._0xH10d805=7_0xH10d804=8_0xH10d80b=7_0xH10d80a=8_0xH10d809=3_0xH10d808=2","Title":"Contraband
+Dancing Technique","Description":"This achievement can be earned in the
+Mini-Game Move to the
+Music.","Points":5,"Author":"Celeryyy","Modified":1503370980,"Created":1503368373,"BadgeName":"53559","Flags":3},{"ID":52000,"MemAddr":"0x0fa63c=62_R:0x0fa63c=91SP:0xM0fd2c4!=0_P:0x0fa63c!=62_P:0xH0f93c4!=0_P:d0x0fd2ca=0x0fd2ca_0xH0f93c8=174.1._0xH0f93c8=176.1._0xH0f93c8=178.1.SP:0xM0fd2f8!=0_P:0x0fa63c!=62_P:0xH0f93c4!=1_P:d0x0fd2fe=0x0fd2fe_0xH0f93c8=174.1._0xH0f93c8=176.1._0xH0f93c8=178.1.SP:0xM0fd32c!=0_P:0x0fa63c!=62_P:0xH0f93c4!=2_P:d0x0fd332=0x0fd332_0xH0f93c8=174_0xH0f93c8=176_0xH0f93c8=178SP:0xM0fd360!=0_P:0x0fa63c!=62_P:0xH0f93c4!=3_P:d0x0fd366=0x0fd366_0xH0f93c8=174_0xH0f93c8=176_0xH0f93c8=178","Title":"Complete
+Your Training","Description":"Catch a ride on all three stations in one
+match on the board Western
+Land.","Points":10,"Author":"Celeryyy","Modified":1503370983,"Created":1503368406,"BadgeName":"53560","Flags":3},{"ID":52001,"MemAddr":"0x0fa63c=65_0x0f8ce4>=50_0x0f8cea>=50_R:0x0f8ce4>=999_R:0x0f8cea>=999","Title":"Toll
+Atoll","Description":"On the board Pirate Land, increase both Thwomps'
+tolls to 50 Coins or
+more.","Points":10,"Author":"Celeryyy","Modified":1503370987,"Created":1503368425,"BadgeName":"53561","Flags":3},{"ID":52002,"MemAddr":"0x0fa63c=69_R:0x0fa63c=91_R:0x0f93b2!=d0x0f93b2_0xH0f8ce6=5.1._0xH0f8ce6=4.1._0xH0f8ce6=3.1._0xH0f8ce6=2.1._0xH0f8ce6=1.1._0xH0f8ce6=0.1.","Title":"Beam
+Team","Description":"Count the laser down fully in one turn on the board
+Space
+Land.","Points":10,"Author":"Celeryyy","Modified":1503370993,"Created":1503368442,"BadgeName":"53562","Flags":3},{"ID":52003,"MemAddr":"0x0fa63c=71_R:0x0fa63c=91_0xH0f93c8=20.1._0xH0f93c8=42.1._0xH0f93c8=53.1._0xH0f93c8=64.1._0xH0f93c8=1.1._0xH0f93c8=2.1._0xH0f93c8=4.1._0xH0f93c8=6.1._0xH0f93c8=9.1._0xH0f93c8=17.1._0xH0f93c8=22.1._0xH0f93c8=24.1._0xH0f93c8=27.1._0xH0f93c8=29.1._0xH0f93c8=41.1._0xH0f93c8=44.1._0xH0f93c8=45.1._0xH0f93c8=47.1._0xH0f93c8=50.1._0xH0f93c8=54.1._0xH0f93c8=55.1._0xH0f93c8=60.1._0xH0f93c8=63.1._0xH0f93c8=65.1._0xH0f93c8=66.1._0xH0f93c8=67.1._0xH0f93c8=68.1._0xH0f93c8=71.1._0xH0f93c8=59.1._0xH0f93c8=14.1._0xH0f93c8=12.1._0xH0f93c8=36.1._0x0f93b2<=20S0xM0fd2c4=0S0xM0fd2f8=0S0xM0fd32c=0S0xM0fd360=0","Title":"Not
+a Mystery Anymore","Description":"As a team, walk across every space on
+the board Mystery Land in 20
+turns.","Points":10,"Author":"Celeryyy","Modified":1503370996,"Created":1503368460,"BadgeName":"53563","Flags":3},{"ID":52004,"MemAddr":"0x0fa63c=67_R:0x0fa63c=91SP:0xM0fd2c4!=0_P:0x0fa63c!=67_P:0xH0f93c4!=0_0xH0f93c8=2.1._0xH0f93c8=7.1._0xH0f93c8=8.1._0xH0f93c8=19.1._0xH0f93c8=21.1.SP:0xM0fd2f8!=0_P:0x0fa63c!=67_P:0xH0f93c4!=1_0xH0f93c8=2.1._0xH0f93c8=7.1._0xH0f93c8=8.1._0xH0f93c8=19.1._0xH0f93c8=21.1.SP:0xM0fd32c!=0_P:0x0fa63c!=67_P:0xH0f93c4!=2_0xH0f93c8=2.1._0xH0f93c8=7.1._0xH0f93c8=8.1._0xH0f93c8=19.1._0xH0f93c8=21.1.SP:0xM0fd360!=0_P:0x0fa63c!=67_P:0xH0f93c4!=3_0xH0f93c8=2.1._0xH0f93c8=7.1._0xH0f93c8=8.1._0xH0f93c8=19.1._0xH0f93c8=21.1.","Title":"Go
+on a Ghost Hunt","Description":"Visit all five Boo graves in one match
+on the board Horror
+Land.","Points":10,"Author":"Celeryyy","Modified":1503370999,"Created":1503368477,"BadgeName":"53564","Flags":3},{"ID":52005,"MemAddr":"0x0fa63c=73_R:0x0fa63c=91S0xM0fd2c4=0_0xH0f93c4=0_0x0f93c8=131_0xH0fd2d9=1S0xM0fd2f8=0_0xH0f93c4=1_0x0f93c8=131_0xH0fd30d=1S0xM0fd32c=0_0xH0f93c4=2_0x0f93c8=131_0xH0fd341=1S0xM0fd360=0_0xH0f93c4=3_0x0f93c8=131_0xH0fd375=1","Title":"On
+the House","Description":"Use a Bowser Suit to get a free item on the
+board Bowser
+Land.","Points":10,"Author":"Celeryyy","Modified":1503371002,"Created":1503368497,"BadgeName":"53565","Flags":3},{"ID":52006,"MemAddr":"0x0fa63c>=62_0x0fa63c<=73_R:0x0fa63c=91SP:0xM0ccc18!=1_0xR10163e=1.100.SP:0xM0ccc18!=1_0xR10163c=1.100.SP:0xM0ccc18!=1_0xR101640=1.100.SP:0xM0ccc18!=1_0xR101642=1.100.","Title":"Party
+Foul","Description":"Be the obnoxious guy at the party by taunting a lot
+during other
+turns.","Points":5,"Author":"Celeryyy","Modified":1503456445,"Created":1503368555,"BadgeName":"53566","Flags":3},{"ID":52007,"MemAddr":"0x0fa63c>=62_0x0fa63c<=73_R:0x0fa63c=91SP:0xM0fd2c4!=0_d0xH0fd2da=2_0xH0fd2da=9SP:0xM0fd2f8!=0_d0xH0fd30e=2_0xH0fd30e=9SP:0xM0fd32c!=0_d0xH0fd342=2_0xH0fd342=9SP:0xM0fd360!=0_d0xH0fd376=2_0xH0fd376=9","Title":"Star
+Transfer Complete","Description":"Steal a Magic Lamp using a Plunder
+Chest.","Points":5,"Author":"Celeryyy","Modified":1503371008,"Created":1503368586,"BadgeName":"53567","Flags":3},{"ID":52008,"MemAddr":"0x0fa63c=82S0xM0fd2c4=0_0xH0f8cfa=3S0xM0fd2f8=0_0xH0f8cf8=3S0xM0fd32c=0_0xH0f8cfe=3S0xM0fd360=0_0xH0f8cfc=3","Title":"Superstar
+Sweep 2","Description":"Have one player take home all three Bonus Stars
+in one
+game.","Points":10,"Author":"Celeryyy","Modified":1503371011,"Created":1503368604,"BadgeName":"53568","Flags":3},{"ID":52009,"MemAddr":"0x0f93a8=6_0x0fa63c=81_0x0fa63c=85.1._R:0xM0fd2c4!=d0xM0fd2c4_R:0xM0fd2f8!=d0xM0fd2f8_R:0xM0fd360!=d0xM0fd360_R:0xH0fd2c2!=d0xH0fd2c2_R:0xH0fd2f6!=d0xH0fd2f6_R:0xH0fd32a!=d0xH0fd32a_R:0xH0fd35e!=d0xH0fd35e_0xH0f93ac=20S0xM0fd2c4=0_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=1_0xH0fd2f6>=2_0xH0fd35e>=0xH000002_0x0fd2ca>=2_0xH0fd32a>=2S0xM0fd2c4=1_0xM0fd2f8=0_0xM0fd32c=1_0xM0fd360=1_0xH0fd2c2>=2_0xH0fd32a>=2_0xH0fd35e>=2_0x0fd2fe>=200S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=0_0xM0fd360=1_0xH0fd2f6>=2_0xH0fd2c2>=2_0xH0fd35e>=2_0x0fd332>=200S0xM0fd2c4=1_0xM0fd2f8=1_0xM0fd32c=1_0xM0fd360=0_0xH0fd2f6>=2_0xH0fd32a>=2_0xH0fd2c2>=2_0x0fd366>=200SP:0x0fa63c!=85_R:0x0fd2ca>10_R:0x0fd2fe>10_R:0x0fd332>10_R:0x0fd366>10_0xH0f93ac=153","Title":"Stadium
+Superstar","Description":"Finish with 200 Coins in MGS Trial Mode. 3
+Hard CPUs, 20 turns, no
+handicaps.","Points":10,"Author":"Celeryyy","Modified":1503371014,"Created":1503368626,"BadgeName":"53569","Flags":3},{"ID":52010,"MemAddr":"0x0fa63c=78_0xH0fc9b9=7_0xH0fc9b8=0_0xH0fa1aa=2_0xH0fd2f6>=2_0xH0fc8f6=7_0xM0fd2f8=1","Title":"No
+Contest","Description":"Beat a Hard CPU 7-0 in the Mini-Game Stadium
+Duel
+Mode.","Points":10,"Author":"Celeryyy","Modified":1503371018,"Created":1503368642,"BadgeName":"53570","Flags":3},{"ID":52011,"MemAddr":"0x0fa63c=108_0xH0fd8b7=42","Title":"Perfect
+Partier","Description":"Achieve the highest multiplier in the Mini-Game
+Coaster mode (saving
+allowed).","Points":30,"Author":"Celeryyy","Modified":1503371021,"Created":1503368668,"BadgeName":"53571","Flags":3}],"Leaderboards":[{"ID":2285,"Mem":"STA:0x0fa63c=h19_0x10c0aa=0::CAN:0x0fa63c!=h19::SUB:0x0fa63c=h19_0x10c0aa=2::VAL:0x10c0de*1.666667","Format":"MILLISECS","Title":"Bobsled
+Run","Description":"Lowest time in the Mini-Game Bobsled
+Run."},{"ID":2287,"Mem":"STA:0x0fa63c=h1c_0x0bf790=0::CAN:0x0fa63c!=h1c::SUB:0x0fa63c=h1c_0x0bf790=2::VAL:0x10af0e*1.666667","Format":"MILLISECS","Title":"Sky
+Pilots","Description":"Lowest time in the Mini-Game Sky
+Pilots."},{"ID":2288,"Mem":"STA:0x0fa63c=h25_0x108494=0::CAN:0x0fa63c!=h25::SUB:0x0fa63c=h25_0x108494!=0::VAL:0xh108495*100_0xh108494*1","Format":"VALUE","Title":"Mecha-Marathon","Description":"Farthest
+distance in the Mini-Game
+Mecha-Marathon."},{"ID":2289,"Mem":"STA:0x0fa63c=h30_0x10fb0c=0_0x1102ca=1::CAN:0x0fa63c!=h30::SUB:0x0fa63c=h30_0x10fb0c=0_0x1102ca=4::VAL:0x10fb10*3.333333","Format":"MILLISECS","Title":"Slot
+Car Derby Course 1","Description":"Lowest time in the Mini-Game Slot Car
+Derby Course
+1."},{"ID":2290,"Mem":"STA:0x0fa63c=h30_0x10fb0c=1_0x1102ca=1::CAN:0x0fa63c!=h30::SUB:0x0fa63c=h30_0x10fb0c=1_0x1102ca=4::VAL:0x10fb10*3.333333","Format":"MILLISECS","Title":"Slot
+Car Derby Course 2","Description":"Lowest time in the Mini-Game Slot Car
+Derby Course
+2."},{"ID":2291,"Mem":"STA:0x0fa63c=h30_0x10fb0c=2_0x1102ca=1::CAN:0x0fa63c!=h30::SUB:0x0fa63c=h30_0x10fb0c=2_0x1102ca=4::VAL:0x10fb10*3.333333","Format":"MILLISECS","Title":"Slot
+Car Derby Course 3","Description":"Lowest time in the Mini-Game Slot Car
+Derby Course
+3."},{"ID":2293,"Mem":"STA:0x0fa63c=h33_0xh108683=1_0xh1086bf=0::CAN:0x0fa63c!=h33::SUB:0x0fa63c=h33_0xh108683=4_0xh1086bc=h1f_0xh1086bf=0::VAL:0x108680*3.333333","Format":"MILLISECS","Title":"Drivers
+Ed Course 1","Description":"Lowest time in the Mini-Game Drivers Ed
+Course
+1."},{"ID":2294,"Mem":"STA:0x0fa63c=h33_0xh108683=1_0xh1086bf=1::CAN:0x0fa63c!=h33::SUB:0x0fa63c=h33_0xh108683=4_0xh1086bc=h1f_0xh1086bf=1::VAL:0x108680*3.333333","Format":"MILLISECS","Title":"Drivers
+Ed Course 2","Description":"Lowest time in the Mini-Game Drivers Ed
+Course
+2."},{"ID":2295,"Mem":"STA:0x0fa63c=h33_0xh108683=1_0xh1086bf=2::CAN:0x0fa63c!=h33::SUB:0x0fa63c=h33_0xh108683=4_0xh1086bc=h1f_0xh1086bf=2::VAL:0x108680*2","Format":"TIME","Title":"Drivers
+Ed Course 3","Description":"Lowest time in the Mini-Game Drivers Ed
+Course
+3."},{"ID":2296,"Mem":"STA:0x0fa63c=h33_0xh108683=1_0xh1086bf=3::CAN:0x0fa63c!=h33::SUB:0x0fa63c=h33_0xh108683=4_0xh1086bc=h1f_0xh1086bf=3::VAL:0x108680*2","Format":"TIME","Title":"Drivers
+Ed Course 4","Description":"Lowest time in the Mini-Game Drivers Ed
+Course
+4."},{"ID":2297,"Mem":"STA:0x0fa63c=h33_0xh108683=1_0xh1086bf=4::CAN:0x0fa63c!=h33::SUB:0x0fa63c=h33_0xh108683=4_0xh1086bc=h1f_0xh1086bf=4::VAL:0x108680*2","Format":"TIME","Title":"Drivers
+Ed Course 5","Description":"Lowest time in the Mini-Game Drivers Ed
+Course
+5."},{"ID":2292,"Mem":"STA:0x0fa63c=h55_0xf93b2=1_0xf93ac=h14::CAN:0x0fa63c=h5b::SUB:0xfa63c=h51_0xf93ac=h14::VAL:0x0fd2ea*~0xM0fd2c4$0x0fd31e*~0xM0fd2f8$0x0fd352*~0xM0fd32c$0x0fd386*~0xM0fd360","Format":"VALUE","Title":"Game
+Star","Description":"Most Coins collected in Mini-Games during one
+20-turn match (no reloading)."}]}}
